@@ -2,7 +2,10 @@
 
 Virtualization
   VDI
-  Hardware virtualization
-    Bare-metal hypervisor
-    Hosted hypervisor
+  Hypervisor
+    Principles
+    VMware Workstation
+    VMware ESX
   Containers
+    Prinicples
+    Docker
